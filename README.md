@@ -13,9 +13,6 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> </p>
 
-### Now Playing 🎧
-[![Spotify](https://open.spotify.com/track/0loZ1KfQSLJxYR0Y7dImKN?si=11fafa85d3ec4abb)
-<br/>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zyanya217)
 <!--
 **zyanya217/zYANYA217** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
