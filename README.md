@@ -1,5 +1,8 @@
 ## <p align="center">[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&size=17&pause=1000&color=000000&center=%E9%8C%AF%E8%AA%A4%E7%9A%84&vCenter=%E9%8C%AF%E8%AA%A4%E7%9A%84&width=435&lines=A+college+student+from+Taiwan.)](https://git.io/typing-svg)</p>
-
+<p  align="center">
+<img src="https://visitor-badge.laobi.icu/badge?page_id=zyanya217"/>       
+</p>
+  
 - 👩‍🎓 <samp><b>Department of Information Management(2019-2023) from Chang Gung University</b>
 - 👩‍💼 <samp>The 31st Student Union President(2019-2020)
 - 📚 <samp>I'm preparing for graduate school.
@@ -36,10 +39,7 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white) 
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=Figma&logoColor=white)  
 
-<p  align="center">
-<img src="https://visitor-badge.laobi.icu/badge?page_id=zyanya217"/>       
-</p>
-  
+
 ![](https://github.com/amandewatnitrr/amandewatnitrr/blob/main/imgs/bottom_header.svg)
   
 <!--
