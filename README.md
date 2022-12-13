@@ -38,9 +38,6 @@
 ![Eclipse](https://img.shields.io/badge/Eclipse-2C2255?style=flat-square&logo=EclipseIDE&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white) 
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=Figma&logoColor=white)  
-
-
-![](https://github.com/amandewatnitrr/amandewatnitrr/blob/main/imgs/bottom_header.svg)
   
 <!--
 **zyanya217/zYANYA217** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
