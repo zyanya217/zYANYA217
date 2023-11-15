@@ -1,7 +1,4 @@
 ## <p align="center">[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&size=17&pause=1000&color=000000&center=%E9%8C%AF%E8%AA%A4%E7%9A%84&vCenter=%E9%8C%AF%E8%AA%A4%E7%9A%84&width=435&lines=A+college+student+from+Taiwan.)](https://git.io/typing-svg)</p>
-<p  align="center">
-<img src="https://visitor-badge.laobi.icu/badge?page_id=zyanya217"/>       
-</p>
   
 - 👩‍🎓 <samp><b>Department of Information Management(2019-2023) from Chang Gung University</b>
 - 👩‍💼 <samp>The 31st Student Union President(2019-2020)
@@ -21,12 +18,10 @@
 ![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=.NET&logoColor=white)
 ![Visual Studio](https://img.shields.io/badge/VisualStudio-5C2D91?style=flat-square&logo=VisualStudio&logoColor=white)
 ![Android Studio](https://img.shields.io/badge/AndroidStudio-3DDC84?style=flat-square&logo=AndroidStudio&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white) 
 - Backend :  
 ![Firebase](https://img.shields.io/badge/Firebase-ffcb2c?style=flat-square&logo=Firebase&logoColor=DD1100)
 ![Microsoft Access](https://img.shields.io/badge/MicrosoftAccess-A4373A?style=flat-square&logo=MicrosoftAccess&logoColor=white) 
 ![Google Cloud Platform](https://img.shields.io/badge/Google_Cloud-4285F4?style=flat-square&logo=google-cloud&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=MongoDB&logoColor=white)
 - APIs/SDK :  
 ![Google APIs](https://img.shields.io/badge/Google_APIs-4285F4?style=flat-square&logo=Google&logoColor=white)
 ![Temi Robot SDK](https://img.shields.io/badge/Temi_Robot_SDK-0de4c8?style=flat-square&logo=)  
