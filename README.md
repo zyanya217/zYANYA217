@@ -1,6 +1,6 @@
 
 - 👩‍🎓 <samp><b>Department of Information Management(2019-2023) from Chang Gung University</b>
-- 👩‍💼 <samp>The 31st Student Union President(2019-2020)
+- 👩‍💼 <samp>The 31st Student Council President(2019-2020)
 - 📚 <samp>I'm preparing for graduate school.
 - 📫 <samp>How to reach me b0844230@cgu.edu.tw
 
