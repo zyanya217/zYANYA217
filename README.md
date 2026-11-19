@@ -1,5 +1,5 @@
 - 👩‍🎓 <samp>B.S. in Information Management from Chang Gung University (2019-2023)</samp>
-- 💼 <samp>Mobile Application Engineer in FinTech Industry</samp>
+- 💼 <samp>Mobile Application Engineer in financial services industry</samp>
 - 📫 <samp>How to reach me: b0844230@cgu.edu.tw</samp>
 
 ---
